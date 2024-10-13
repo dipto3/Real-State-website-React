@@ -16,7 +16,7 @@ export default function Footer() {
                   className="mb-6 inline-block  max-h-[100px]"
                 >
                   <img
-                    src="./src/assets/images/logo/logo.svg"
+                    src="./assets/images/logo/logo.svg"
                     alt="logo"
                     className="max-w-full"
                   />
@@ -140,7 +140,7 @@ export default function Footer() {
                   >
                     <div className="overflow-hidden rounded">
                       <img
-                        src="./src/assets/images/blog/blog-footer-01.jpg"
+                        src="./assets/images/blog/blog-footer-01.jpg"
                         alt="blog"
                       />
                     </div>
@@ -154,7 +154,7 @@ export default function Footer() {
                   >
                     <div className="overflow-hidden rounded">
                       <img
-                        src="./src/assets/images/blog/blog-footer-02.jpg"
+                        src="./assets/images/blog/blog-footer-02.jpg"
                         alt="blog"
                       />
                     </div>

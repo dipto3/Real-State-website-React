@@ -54,7 +54,7 @@ export default function Feature() {
 
                   <GenericSvg />
                 </div>
-                <h4 className="mb-3 text-xl font-bold text-dark dark:text-white">
+                <h4 className="mb-3 text-xl font-bold text-dark dark:text-dark">
                   Personalized Property Matching
                 </h4>
                 <p className="mb-8 text-body-color dark:text-dark-6 lg:mb-9">
@@ -75,7 +75,7 @@ export default function Feature() {
                   <span className="absolute left-0 top-0 -z-[1] mb-8 flex h-[70px] w-[70px] rotate-[25deg] items-center justify-center rounded-[14px] bg-primary bg-opacity-20 duration-300 group-hover:rotate-45"></span>
                   <SquareSvg />
                 </div>
-                <h4 className="mb-3 text-xl font-bold text-dark dark:text-white">
+                <h4 className="mb-3 text-xl font-bold text-dark dark:text-dark">
                   Expert Guidance and Support
                 </h4>
                 <p className="mb-8 text-body-color dark:text-dark-6 lg:mb-9">

@@ -12,7 +12,7 @@ export default function Navbar() {
                 className="navbar-logo block w-60 max-w-full px-4"
               >
                 <img
-                  src="./src/assets/images/logo/logo.svg"
+                  src="./assets/images/logo/logo.svg"
                   alt="logo"
                   className="header-logo h-12"
                 />
